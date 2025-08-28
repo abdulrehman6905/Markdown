@@ -1,5 +1,5 @@
 # 1- headings
-how to give heading in markdown files?
+How to give heading in markdown files?
 # heading 1
 ## heading 2
 ### heading 3
